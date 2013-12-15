@@ -7,6 +7,6 @@ Simple examples using [github.com/go-gl/gl](https://github.com/go-gl/gl) and  [g
 
 To build:
 
-- Install opengl and glfw3
+- Install/build `opengl` and `glfw3`
 - `$ go get github.com/go-gl/gl github.com/go-gl/glfw3`
 - `$ go run main.go`
